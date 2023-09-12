@@ -9,9 +9,9 @@ namespace Employee2023
 {
     internal class Employee
     {
-        public string employeeName;
+        string employeeName;
 
-        public float salary;
+        float salary;
 
         public Employee(string name, float sal)
         {
